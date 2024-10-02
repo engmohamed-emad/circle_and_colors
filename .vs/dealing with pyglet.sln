@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dealing with pyglet", "dealing with pyglet\dealing with pyglet.pyproj", "{BFCA50BF-FFC4-4FC4-8B90-048DF6D011BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFCA50BF-FFC4-4FC4-8B90-048DF6D011BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCA50BF-FFC4-4FC4-8B90-048DF6D011BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA25DFE6-FFDF-4C73-B472-BEFC83BF8561}
+	EndGlobalSection
+EndGlobal
